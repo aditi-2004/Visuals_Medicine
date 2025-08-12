@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "name": "Calcimax Forte",
+    "category": "Ortho",
+    "salt": "Calcium Carbonate + Vitamin D3",
+    "weight": "500mg + 250 IU",
+    "price": 180,
+    "description": "Calcium + Vitamin D3 supplement for bone strength.",
+    "image": "images/calcimax.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Osteofos 70",
+    "category": "Ortho",
+    "salt": "Alendronate Sodium",
+    "weight": "70mg",
+    "price": 250,
+    "description": "Alendronate Sodium for osteoporosis treatment.",
+    "image": "images/Osteofos.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dolo 650",
+    "category": "Ortho",
+    "salt": "Paracetamol",
+    "weight": "650mg",
+    "price": 30,
+    "description": "Paracetamol for musculoskeletal pain relief.",
+    "image": "images/dolo-650.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Flexura D",
+    "category": "Ortho",
+    "salt": "Metaxalone + Diclofenac Potassium",
+    "weight": "400mg + 50mg",
+    "price": 220,
+    "description": "Metaxalone + Diclofenac for muscle relaxation.",
+    "image": "images/flexaura-d.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Shelcal 500",
+    "category": "Ortho",
+    "salt": "Calcium Carbonate + Vitamin D3",
+    "weight": "500mg + 250 IU",
+    "price": 120,
+    "description": "Calcium Carbonate + Vitamin D3 supplement.",
+    "image": "images/shelcal.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Femilon",
+    "category": "Gyne",
+    "salt": "Desogestrel + Ethinylestradiol",
+    "weight": "0.15mg + 0.02mg",
+    "price": 300,
+    "description": "Desogestrel + Ethinylestradiol oral contraceptive.",
+    "image": "images/femilon.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Ovral L",
+    "category": "Gyne",
+    "salt": "Levonorgestrel + Ethinylestradiol",
+    "weight": "0.15mg + 0.03mg",
+    "price": 120,
+    "description": "Levonorgestrel + Ethinylestradiol contraceptive pill.",
+    "image": "images/ovral.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Gestofit SR 200",
+    "category": "Gyne",
+    "salt": "Progesterone SR",
+    "weight": "200mg",
+    "price": 450,
+    "description": "Progesterone sustained release capsule.",
+    "image": "images/gestofit.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Fol123",
+    "category": "Gyne",
+    "salt": "Folic Acid + Methylcobalamin + Vitamin D3",
+    "weight": "5mg + 1500mcg + 1000 IU",
+    "price": 80,
+    "description": "Folic acid + Vitamin B12 + Vitamin D prenatal supplement.",
+    "image": "images/fol123.jpg"
+  },
+  {
+    "id": 15,
+    "name": "M2 Tone",
+    "category": "Gyne",
+    "salt": "Ayurvedic herbal blend",
+    "weight": "500mg",
+    "price": 250,
+    "description": "Herbal uterine tonic for women's health.",
+    "image": "images/m2-tone.jpg"
+  },
+  
+  {
+    "id": 21,
+    "name": "Paracetamol 500mg",
+    "category": "General",
+    "salt": "Paracetamol",
+    "weight": "500mg",
+    "price": 25,
+    "description": "Pain & fever relief tablet.",
+    "image": "images/crosin.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Amoxicillin 500mg",
+    "category": "General",
+    "salt": "Amoxicillin",
+    "weight": "500mg",
+    "price": 80,
+    "description": "Broad-spectrum antibiotic for infections.",
+    "image": "amoxicillin-500.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Pantoprazole 40mg",
+    "category": "General",
+    "salt": "Pantoprazole Sodium",
+    "weight": "40mg",
+    "price": 95,
+    "description": "Acid reducer (proton pump inhibitor).",
+    "image": "pantoprazole-40.jpg"
+  },
+  {
+    "id": 24,
+    "name": "ORS Sachet",
+    "category": "General",
+    "salt": "Sodium Chloride + Potassium Chloride + Sodium Citrate + Glucose",
+    "weight": "20.5g per sachet",
+    "price": 20,
+    "description": "Oral rehydration salts for dehydration.",
+    "image": "ors-sachet.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Cetirizine",
+    "category": "General",
+    "salt": "Cetirizine Hydrochloride",
+    "weight": "10mg",
+    "price": 15,
+    "description": "Anti-allergic tablet for runny nose & itching.",
+    "image": "cetirizine.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Azithromycin 500mg",
+    "category": "General",
+    "salt": "Azithromycin",
+    "weight": "500mg",
+    "price": 110,
+    "description": "Macrolide antibiotic for bacterial infections.",
+    "image": "azithromycin-500.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Ibuprofen 400mg",
+    "category": "General",
+    "salt": "Ibuprofen",
+    "weight": "400mg",
+    "price": 45,
+    "description": "Pain relief & anti-inflammatory tablet.",
+    "image": "ibuprofen-400.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Metformin 500mg",
+    "category": "General",
+    "salt": "Metformin Hydrochloride",
+    "weight": "500mg",
+    "price": 50,
+    "description": "Diabetes control medication.",
+    "image": "metformin-500.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Zincovit",
+    "category": "General",
+    "salt": "Multivitamin blend + Zinc",
+    "weight": "Varies per ingredient",
+    "price": 120,
+    "description": "Multivitamin + Zinc supplement.",
+    "image": "zincovit.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Rantac 150",
+    "category": "General",
+    "salt": "Ranitidine Hydrochloride",
+    "weight": "150mg",
+    "price": 55,
+    "description": "Ranitidine for acidity relief.",
+    "image": "rantac-150.jpg"
+  }
+]

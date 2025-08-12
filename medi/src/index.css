@@ -1,0 +1,27 @@
+/* index.css - base reset + fonts (system stack for offline) */
+:root{
+  --accent: #0b76ff;
+  --glass: rgba(255,255,255,0.06);
+  --glass-2: rgba(255,255,255,0.08);
+  --text: #111827;
+  --muted: #4f7dbe;
+  --card-radius: 12px;
+}
+
+*{box-sizing:border-box}
+html,body,#root{height:100%}
+body{
+  margin:0;
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+  color:var(--text);
+  background: #f2f6fb;
+  -webkit-font-feature-settings: "liga";
+}
+
+/* background image applied on App container (in App.css) */
+a { color: inherit; text-decoration: none; }
+button { font-family: inherit; cursor: pointer; }
+img { display: block; max-width: 100%; }
+
