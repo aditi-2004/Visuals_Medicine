@@ -1,0 +1,43 @@
+[User]
+   |
+   v
+[Browser]
+   |
+   +---> Loads index.html (public/)
+   |         |
+   |         +-- References React app bundle (build/static/js, css)
+   |         +-- References manifest.json (PWA metadata)
+   |         +-- Registers service-worker.js (offline caching)
+   |
+   v
+[React Frontend App]
+   |
+   +-- UI Rendering
+   |       |
+   |       +-- Navbar / Category Navigation
+   |       +-- Home / Background visuals
+   |       +-- Medicine Sections (General / Ortho / Gyne / Supplements)
+   |       +-- Product Cards (image + text + info)
+   |
+   +-- Asset Loading
+   |       |
+   |       +-- Images (from /public/images or /build/images)
+   |       +-- Logo / Background
+   |
+   +-- State & Routing
+   |       |
+   |       +-- Client-side routing (React Router if used)
+   |       +-- Switch between categories
+   |       +-- Display selected medicine details
+   |
+   v
+[Progressive Web App Features]
+   |
+   +-- manifest.json → Installable web app on devices
+   +-- service-worker.js → Caches assets for offline use
+   |
+   v
+[Deployment]
+   |
+   +-- Hosted on Firebase / Netlify / Vercel (static hosting)
+   +-- Users access via domain or localhost
